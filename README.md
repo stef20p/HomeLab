@@ -2,4 +2,4 @@
 Built a basic home lab with two virtual machines
 
 # Tools Used
-KaliLinux, Microsoft and VirtualBox
+KaliLinux OS, Microsoft OS and VirtualBox
